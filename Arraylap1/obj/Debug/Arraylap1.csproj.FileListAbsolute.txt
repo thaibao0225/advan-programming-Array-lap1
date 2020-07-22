@@ -1,0 +1,6 @@
+/Users/thaibao/Desktop/project/c#/Greenwich/lap1/Arraylap1/Arraylap1/bin/Debug/Arraylap1.exe
+/Users/thaibao/Desktop/project/c#/Greenwich/lap1/Arraylap1/Arraylap1/bin/Debug/Arraylap1.pdb
+/Users/thaibao/Desktop/project/c#/Greenwich/lap1/Arraylap1/Arraylap1/obj/Debug/Arraylap1.csprojAssemblyReference.cache
+/Users/thaibao/Desktop/project/c#/Greenwich/lap1/Arraylap1/Arraylap1/obj/Debug/Arraylap1.csproj.CoreCompileInputs.cache
+/Users/thaibao/Desktop/project/c#/Greenwich/lap1/Arraylap1/Arraylap1/obj/Debug/Arraylap1.exe
+/Users/thaibao/Desktop/project/c#/Greenwich/lap1/Arraylap1/Arraylap1/obj/Debug/Arraylap1.pdb

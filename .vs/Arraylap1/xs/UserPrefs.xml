@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0495DB05-A0CA-43A5-8538-9313D2180A37}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arraylap1/Menu.cs">
+    <Files>
+      <File FileName="Arraylap1/Program.cs" Line="18" Column="1" />
+      <File FileName="Arraylap1/Array.cs" />
+      <File FileName="Arraylap1/Menu.cs" Line="124" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arraylap1" expanded="True">
+            <Node name="Arraylap1" expanded="True">
+              <Node name="Menu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Arraylap1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
